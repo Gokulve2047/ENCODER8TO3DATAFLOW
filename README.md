@@ -61,6 +61,7 @@ modmule enc(a,b,c,y0,y1,y2,y3,y4,y5,y6,y7);
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
 ![Screenshot 2024-12-08 212600](https://github.com/user-attachments/assets/7ca05e14-243e-49d2-adcd-b53b810cd01e)
 
 
